@@ -1,0 +1,45 @@
+.rot{
+    border-radius: 20px;
+    height: 100px;
+    width:130px;
+    box-shadow:12px 1px 1px chocolate ;
+    
+
+}
+.spoon{
+    border:ridge;
+    box-shadow:20px 20px 30px ;
+    border-radius: 10px;
+    background-color:black;
+    
+
+}
+button{
+    height: 10px;
+    width: 10px;
+    display:flex
+    
+}
+.lon{
+    background: red;
+    cursor: pointer;
+    
+    
+    
+
+}
+.yon{
+    background: green;
+}
+.hee{
+    background: black;
+}
+marquee{
+    color: blueviolet;
+    font-family: cursive;
+    font-weight: 200px;
+    border:solid chocolate ;
+    border-radius: 20px;
+    background:white ;
+}
+
